@@ -1,5 +1,5 @@
 # iframer
-this one will iframe iframed
+this one will iframe [iframed](https://github.com/jkovzels/iframed)
 
 this is parent
 
